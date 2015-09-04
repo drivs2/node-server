@@ -56,8 +56,11 @@ body {
 }
 .page-footer {
   margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
   background-color: #B6D98F !important;
   text-align: center;
+
 }
 
 .smbutton {
@@ -69,11 +72,23 @@ body {
   font-family: sans-serif;
   font-size: 16px;
   text-align: center;
-  color: white;
+  color: white !important;
+
+}
+
+.linkun:hover {
+  text-decoration: underline;
 }
 
 .copyright {
   text-align: center;
   color: white;
-  font-weight: bold; 
+  font-weight: bold;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.footerlist{
+  margin-bottom: 0;
+  padding-bottom: 0; 
 }
