@@ -61,16 +61,19 @@ body {
 }
 
 .smbutton {
-   color: #A0ABB1;
+   /*color: #A0ABB1;*/
+   color: white;
 }
 
 .linksatbottom {
-  font-weight: bold;
   font-family: sans-serif;
   font-size: 16px;
   text-align: center;
+  color: white;
 }
 
 .copyright {
   text-align: center;
+  color: white;
+  font-weight: bold; 
 }
