@@ -52,6 +52,13 @@ body {
   margin-top: 40px;
 }
 
+.actualresume{
+  width: 900px;
+  height: 1165px;
+  text-align: center;
+
+
+}
 /* main color for nav-bar*/
 .my-navbar {
   background-color: #6CBF57;
