@@ -55,7 +55,9 @@ body {
 .actualresume{
   width: 900px;
   height: 1165px;
-  text-align: center;
+  text-align: center !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
 
 
 }
