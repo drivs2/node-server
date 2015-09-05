@@ -51,7 +51,25 @@ body {
   width: 110px;
 }
 
+.hidden{
+ display:none;
+}
+
 .coffee {
+
+}
+.theresume {
+  width: 900px;
+  height: 1165px;
+  text-align: center !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.fotoseria{
+  width: 400px;
+  height: 400px;
+  text-align: center;
 
 }
 
