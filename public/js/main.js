@@ -7,6 +7,9 @@ $(document).ready(function(){
   // $('body').slideDown(20000, function() {
   //   console.log("finish sliding down");
   // });
+  // Fade In
 
+  // Fade In
+  $('theresume').fadeIn('slow');
 
 });
