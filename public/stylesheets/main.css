@@ -25,6 +25,17 @@ body {
     width: 100%;
 }
 
+.logoimg {
+  height: 51px;
+  width: 80px;
+}
+
+/*.brand-logo {
+  height: 10px;
+  width: 10px;
+}*/
+
+
  /*.titletext {
   font-family: sans-serif;
   font-size: 48pt;
@@ -65,6 +76,7 @@ body {
   margin-top: 0px !important;
   margin-bottom: 0px !important;
   padding-bottom: 0px !important;
+  padding-top: 1px !important;
   background-color: #B6D98F !important;
   text-align: center;
 
