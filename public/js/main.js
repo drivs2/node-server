@@ -9,7 +9,8 @@ $(document).ready(function(){
   // });
   // Fade In
 
+
   // Fade In
-  $('theresume').fadeIn('slow');
+  $('theresume').fadeIn(1000);
 
 });
