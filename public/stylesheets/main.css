@@ -54,14 +54,14 @@ body {
 }
 
 /* attributes for resume class*/
-.resumediv{
+/*.resumediv{
   text-align: center;
-}
+}*/
 
 .theresume {
   width: 800px;
   height:1035px;
-  text-align: center !important;
+  text-align: center;
   padding-left: 0px !important;
   padding-right: 0px !important;
 }
@@ -73,7 +73,7 @@ body {
 }
 
 .contactA {
-  color: #6CBF57;
+  color: black;
   margin-top: 0;
   font-family: helvetica;
   font-size: 6rem;
@@ -83,7 +83,7 @@ body {
 
 .contactB{
   font-size: 3rem;
-  color: #6CBF57;
+  color: black;
 }
 
 .emaillink{
@@ -120,7 +120,8 @@ body {
 /* Attributes for the skills icons*/
 
 .thoseicons{
-  list-style: inline !important;
+  display: inline !important;
+
 }
 .html5{
   height: 150px;
