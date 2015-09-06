@@ -38,9 +38,10 @@ body {
 }*/
 
 .maintext{
-  width: 1020px;
+  width: 100%;
   height: 60px;
   margin-top: 40px;
+
 }
 
 /* main color for nav-bar*/
@@ -187,6 +188,9 @@ body {
   font-weight: bold;
   margin-bottom: 0;
   padding-bottom: 0;
+}
+.page-footer{
+  width: 100%;
 }
 
 .footerlist{
