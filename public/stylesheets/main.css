@@ -76,7 +76,7 @@ body {
   width: 800px;
   height:1035px;
   position: relative;
-  
+
   /*padding-left: 0px !important;
   padding-right: 0px !important;*/
 }
@@ -106,9 +106,13 @@ body {
 }
 
 .iconlist{
-  list-style: inline !important;
+  display:inline; !important;
   text-align: center;
   color: white !important;
+  margin-left: 5%;
+  margin-right: 3%;
+
+
 }
 /*aboutmeclasses*/
 
