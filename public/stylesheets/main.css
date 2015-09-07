@@ -137,7 +137,8 @@ body {
 
 .actualbio{
   font-family: helvetica;
-  font-size: 16pt;
+  font-size: 1rem;
+  text-align: justify;
 
 }
 
