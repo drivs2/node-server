@@ -11,6 +11,6 @@ $(document).ready(function(){
 
 
   // Fade In
-  $('theresume').fadeIn(1000);
+  $('theresume').fadeIn(9000);
 
 });
