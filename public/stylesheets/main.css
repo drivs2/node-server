@@ -131,16 +131,14 @@ body {
   width: 400px;
   height: 400px;
   margin: 0 auto;
-
-
 }
+
+/*bio classes*/
 
 .actualbio{
   font-family: helvetica;
   font-size: 1.5rem;
   text-align: justify;
-
-
 }
 
 
