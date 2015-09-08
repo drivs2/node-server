@@ -38,6 +38,13 @@ body {
 
 }
 
+.home-contentC {
+    background: url("../images/coffee2.jpg") no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+
+}
  /*.titletext {
   font-family: sans-serif;
   font-size: 48pt;
@@ -97,6 +104,7 @@ body {
   padding-right: 0px !important;*/
 }
 
+/* Contact me */
 
 .contacttext{
   text-align: center;
@@ -187,6 +195,10 @@ body {
    color: white;
 }
 
+.smbutton2 {
+  color: black;
+}
+
 .linksatbottom {
   font-family: sans-serif;
   font-size: 16px;
@@ -223,14 +235,18 @@ body {
   margin-top: 0;
   font-family: helvetica;
   font-size: 6rem;
+  font-weight: bold;
+  text-align: left;
 
 }
 
 
-.contactB{
+/*.contactB{
   font-size: 3rem;
   color: black;
-}
+  text-align: left;
+  display:inline; !important;
+}*/
 
 .emaillink{
   color: #6CBF57 !important;
