@@ -1,8 +1,12 @@
 $(document).ready(function() {
   $('.slider').slider({
-    Transition: false,
-    full_width: false});
-    
+    indicators: false,
+    full_width: false,
+    height: 400,
+    transition: 800, // ms
+    interval: 6000
+  });
+
   // $(".maintext").show("slide", {
   //   direction: "left"
   // }, 5000);
