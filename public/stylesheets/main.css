@@ -18,6 +18,11 @@ body {
   margin: 0;
   padding: 0;
 }*/
+
+/*.hidden{
+ display:none;
+}*/
+
 .home-content {
     background: url("../images/man-coffee-cup-pen2.jpg") no-repeat;
     background-size: cover;
@@ -82,7 +87,12 @@ body {
   width: 800px;
   height:1035px;
   position: relative;
-
+  opacity:0;
+  -moz-transition: opacity 4s; /* Firefox 4 */
+  -webkit-transition: opacity 4s; /* Safari and Chrome */
+  -o-transition: opacity 4s;
+  transition: opacity 4s;
+}
   /*padding-left: 0px !important;
   padding-right: 0px !important;*/
 }
@@ -94,16 +104,20 @@ body {
 }
 
 
-
+/*skills*/
 .iconlist{
   display:inline; !important;
   text-align: center;
   color: white !important;
   margin-left: 5%;
   margin-right: 3%;
-
-
 }
+
+.thoseicons{
+  display: inline !important;
+  margin-top: 20px !important;
+}
+
 /*aboutmeclasses*/
 
 .fotoclass{
@@ -127,11 +141,8 @@ body {
 
 /* Attributes for the skills icons*/
 
-.thoseicons{
-  display: inline !important;
 
 
-}
 .html5{
   height: 150px;
   width: 150px;

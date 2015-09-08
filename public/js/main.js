@@ -2,15 +2,14 @@ $(document).ready(function(){
   $('.collapsible').collapsible({
     accordion : false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
 
+    
   });
-  // console.log("about to slide down");
-  // $('body').slideDown(20000, function() {
-  //   console.log("finish sliding down");
-  // });
-  // Fade In
+// $(document).ready(function(){
+//     $('.hidden').slideDown(4000);
+// });
 
-
-  // Fade In
-  $('theresume').fadeIn(9000);
-
-});
+    // var options = [
+    //    {selector: '.class', offset: 200, callback: 'globalFunction()' },
+    //    {selector: '.other-class', offset: 200, callback: 'globalFunction()' },
+    //  ];
+    //  Materialize.scrollFire(options);
