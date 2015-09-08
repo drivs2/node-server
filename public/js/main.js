@@ -1,9 +1,12 @@
-$(document).ready(function(){
-  $('.collapsible').collapsible({
-    accordion : false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
+$(document).ready(function() {
+  $(".maintext").show("slide", {
+    direction: "left"
+  }, 5000);
 
-    
+  $('.collapsible').collapsible({
+    accordion: false  // A setting that changes the collapsible behavior to expandable instead of the default accordion style
   });
+});
 // $(document).ready(function(){
 //     $('.hidden').slideDown(4000);
 // });
