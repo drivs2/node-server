@@ -93,23 +93,7 @@ body {
   padding-top: 2rem;
 }
 
-.contactA {
-  color: black;
-  margin-top: 0;
-  font-family: helvetica;
-  font-size: 6rem;
 
-}
-
-
-.contactB{
-  font-size: 3rem;
-  color: black;
-}
-
-.emaillink{
-  color: #6CBF57 !important;
-}
 
 .iconlist{
   display:inline; !important;
@@ -138,14 +122,14 @@ body {
 .actualbio{
   font-family: helvetica;
   font-size: 1.5rem;
-  text-align: justify;
-}
+  text-align: justify;}
 
 
 /* Attributes for the skills icons*/
 
 .thoseicons{
   display: inline !important;
+
 
 }
 .html5{
@@ -220,4 +204,23 @@ body {
 .footerlist{
   margin-bottom: 0;
   padding-bottom: 0;
+}
+
+
+.contactA {
+  color: black;
+  margin-top: 0;
+  font-family: helvetica;
+  font-size: 6rem;
+
+}
+
+
+.contactB{
+  font-size: 3rem;
+  color: black;
+}
+
+.emaillink{
+  color: #6CBF57 !important;
 }
