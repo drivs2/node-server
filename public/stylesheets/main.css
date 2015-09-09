@@ -176,6 +176,10 @@ body {
   height: 400px;
   margin: 0 auto;
   padding: 0 auto;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  
 
 }
 
