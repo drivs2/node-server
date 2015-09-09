@@ -276,6 +276,13 @@ body {
 margin-left; 5em;
 }
 
+.cool-btn-color{
+  background-color: #6CBF57;
+}
+
+.color-btn-color:hover{
+  background-color: #B6D98F !important;
+}
 /*.contactB{
   font-size: 3rem;
   color: black;
