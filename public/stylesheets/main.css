@@ -27,17 +27,7 @@ body {
 /* These classes can be added to HTML Elements
  * to affect visibility on certain displays.
  */
-.hide-on-small-only
-.hide-on-small-and-down
-.hide-on-med-and-down
-.hide-on-med-and-up
-.hide-on-med-only
-.hide-on-large-only
-.show-on-large
-.show-on-medium
-.show-on-small
-.show-on-medium-and-up
-.show-on-medium-and-down
+
 
 @media #{$small-and-down} {
     // styles for small screens and down
@@ -179,7 +169,7 @@ body {
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
   border-radius: 50px;
-  
+
 
 }
 
