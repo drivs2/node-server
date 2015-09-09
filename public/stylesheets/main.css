@@ -116,6 +116,7 @@ body {
 .drlogo {
   height: 4.375rem;
   width:  6.875rem;
+  /*display:none;*/
 }
 
 /* attributes for resume class*/
@@ -174,6 +175,8 @@ body {
   width: 400px;
   height: 400px;
   margin: 0 auto;
+  padding: 0 auto;
+
 }
 
 /*bio classes*/
