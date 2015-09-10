@@ -8,6 +8,10 @@ body {
  main {
    flex: 1 0 auto;
  }*/
+ .body{
+   margin: 0;
+   background-color: #B6D98F !important;
+ }
 /*.home-content {
   background: url("../images/man-coffee-cup-pen2.jpg") 100% no-repeat;
   background-size: 100%;
@@ -186,7 +190,8 @@ body {
 .actualbio{
   font-family: helvetica;
   font-size: 1.5rem;
-  text-align: justify;}
+  text-align: justify;
+  padding: 80px;}
 
 
 /* Attributes for the skills icons*/
@@ -228,7 +233,7 @@ body {
   padding-bottom: 0px !important;
   background-color: #B6D98F !important;
   text-align: center;
-
+  height: fixed;
 
 }
 
@@ -263,7 +268,6 @@ body {
   padding-bottom: 0;
 }
 .page-footer{
-  width: 100%;
 }
 
 .footerlist{
