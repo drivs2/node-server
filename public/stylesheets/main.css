@@ -8,7 +8,7 @@ body {
  main {
    flex: 1 0 auto;
  }*/
- .body{
+ body{
    margin: 0;
    background-color: #B6D98F !important;
  }
