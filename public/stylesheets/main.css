@@ -46,6 +46,14 @@ body {
     // styles for large screens and up
   }
 
+
+h1{
+  text-align: center;
+  font-family: futura;
+  color: white; 
+}
+
+}
 .home-content {
     background-size: cover;
     height: 100%;
@@ -84,6 +92,7 @@ body {
   margin-top: 0px;
   margin-botom: 0px;
 }*/
+
 
 .maintext{
   width: 100%;
